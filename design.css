@@ -5,3 +5,27 @@
 /* <system section="background" selected="default"> */
 /* default */
 /* </system> */
+
+/* 一旦保留 */
+/*記事エントリ一覧のカスタマイズ*/
+section {
+border: 0.5px solid #dcdcdc;
+background-color:#ffffff;
+padding:20px;
+box-shadow: 3px 3px 5px rgba(128,128,128,0.8);
+}
+/*サイドバーのカスタマイズ*/
+.hatena-module{
+border: 0.5px solid #dcdcdc;
+background-color: #ffffff;
+padding:15px;
+box-shadow: 3px 3px 5px rgba(128,128,128,0.8);
+}
+/*記事のカスタマイズ*/
+.entry-inner {
+border: 0.5px solid #dcdcdc;
+background-color:#ffffff;
+padding:20px;
+box-shadow: 3px 3px 5px rgba(128,128,128,0.8);
+}
+
