@@ -124,21 +124,21 @@ box-shadow: 3px 3px 5px rgba(128,128,128,0.8);
 
 /*右からのふきだし*/
 .chat-text-right { 
-  background-color: #f0f0f0; /*★③右ふきだし背景色*/
-  border: 1px solid #aaa; /*★④右ふきだし枠線の色*/
+  background-color: #88ddff; /*★③右ふきだし背景色*/
+  border: 1px solid #55aaff; /*★④右ふきだし枠線の色*/
 } 
 /*左からのふきだしの三角部分*/
 .chat-text-right:after {
   position: absolute; 
   top: 16px; right: -22px; content: '';
   border: 12px solid transparent;
-  border-left: 12px solid #f0f0f0; /*③右ふきだし背景色*/
+  border-left: 12px solid #88ddff; /*③右ふきだし背景色*/
 }
 .chat-text-right:before {
   position: absolute; 
   top: 16px; right: -24px; content: '';
   border: 12px solid transparent;
-  border-left: 12px solid #aaa; /*★④右ふきだし枠線の色*/
+  border-left: 12px solid #55aaff; /*★④右ふきだし枠線の色*/
 }
 
 
