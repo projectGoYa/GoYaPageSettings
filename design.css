@@ -236,7 +236,7 @@ box-shadow: 3px 3px 5px rgba(128,128,128,0.8);
  width: 100%;
  padding-left: 0px;
  height: 40px;
- background: #343838;/*グローバルメニュー背景色*/
+ background: #262b2b;/*グローバルメニュー背景色*/
 }
 .menu-inner{
  width: 968px;
@@ -259,7 +259,7 @@ box-shadow: 3px 3px 5px rgba(128,128,128,0.8);
  line-height: 40px;
 }
 #menu li:hover a {
- color: #00DFFC;
+ color: #262b2b;
  background: #ffffff;
  transition: all .5s;
 }
@@ -279,7 +279,7 @@ box-shadow: 3px 3px 5px rgba(128,128,128,0.8);
 @media screen and (max-width:768px){
  #top-editarea{
   height: initial;
-  background: #343838;/*MENU背景色*/
+  background: #262b2b;/*MENU背景色*/
   text-align: right;/*MENUの文字の位置*/
   width: 100%;
  }
@@ -308,17 +308,17 @@ box-shadow: 3px 3px 5px rgba(128,128,128,0.8);
   height: 35px;
   width: 100%;
   list-style-type: none;
-  background: #00DFFC;/*リスト文字の背景色*/
+  background: #262b2b;/*リスト文字の背景色*/
   margin: 0 auto;
   text-align: left;/*リストの文字の位置*/
  }
  #menu li a {
   height: initial;
-  color: #343838;/*リスト文字色*/
+  color: #ffffff;/*リスト文字色*/
   display: block;
  }
  #menu li:hover a{
-  color: initial;
-  background: initial;
+  color: #262b2b;
+  background: #ffffff;
  }
 }
