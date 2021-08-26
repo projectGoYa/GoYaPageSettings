@@ -3,8 +3,15 @@
 
 チャンネル登録や、Twitterフォローなどお待ちしています。
 
-## GoYaちゃんねるー
+## GoYaのホビーちゃんねるー
 [リンク](https://www.youtube.com/channel/UCiVe9ggYeTka18uYeKTqWLA)
+
+## GoYaのゲームセンター
+[リンク](https://www.youtube.com/channel/UC18beN06TkhSk5lhMHbRb3Q)
+
+## GoYa archive's
+[リンク](https://www.youtube.com/channel/UCv-HFpBTUA6JXP9Odw-czFQ)
+
 
 ## ゴトゥー
 [Twitter](https://twitter.com/HideponHG)  
