@@ -322,3 +322,13 @@ box-shadow: 3px 3px 5px rgba(128,128,128,0.8);
   background: #ffffff;
  }
 }
+
+/*関連記事をサイドバーから削除する*/
+.hatena-module-related-entries {
+  display: none;
+}
+
+/*文字列左詰め*/
+div.left {
+    text-align: left; 
+}
